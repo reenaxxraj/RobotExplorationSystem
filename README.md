@@ -8,4 +8,4 @@ Build a robotic system that can
 
 A* Path finding algorithm is used for finding the fastest path. The exploration algorithm uses a left wall hugging algorithm. 
 
-This source code contains only the simulator and the algorithm of the robot navigation system. Please select "NO" when prompted "Is this a real run?" to run the system in a virtual simulation.
+This source code contains only the simulator and the algorithm component of the robot navigation system. Please select "NO" when prompted "Is this a real run?" to run the system in a virtual simulation.
